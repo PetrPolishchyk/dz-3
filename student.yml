@@ -1,0 +1,38 @@
+student:
+    name: Peter
+    surname: Polishchuk
+    age: 35
+    height: 178
+    weight: 84.5
+    birthday: 1987-07-13,
+    married: true
+    adress: "Vinnytsia, \"Nahorna\" street, 19"
+    family:
+        wife:
+            name: Valentina
+            age: 39
+        son:
+            name: Nazar
+            age: 11
+    disciplines:
+        math: |
+            costPerYear - 100
+            lections - 40
+            avgScore - 11
+        history: |
+            costPerYear - 400
+            lections - 80
+            avgScore - 10
+        philosophy: |
+            costPerYear - 50
+            lections - 10
+            lections - 9.7
+        english: |
+            costPerYear - 50
+            lections - 10
+            lections - 9.7
+    sportInterests: [Tennis, Bike, Football, Chess]
+    friends:
+    - "Alex"
+    - "Mike"
+    - "Yriy"
