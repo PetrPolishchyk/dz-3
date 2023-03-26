@@ -1,0 +1,64 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+<student name="Peter Polishchuk">
+
+<mainInformation>
+<age>35</age>
+<height>178</height>
+<weight>84.5</weight>
+<birthday>1987-07-13+02:00</birthday>
+<married>true</married>
+<adress kind="Address of residence">
+<town>Vinnytsia</town>
+<street>Nahirna</street>
+<number>19</number>
+</adress>
+</mainInformation>
+
+<family members="2">
+<first name="Valentina">
+<relationship>wife</relationship>
+<age>39</age>
+</first>
+<second name ="Nazar">
+<relationship>son</relationship>
+<age>11</age>
+</second>
+</family>
+
+<disciplines>
+<discipline name="math">
+<costPerYear>100</costPerYear>
+<lections>10</lections>
+<avgScore>11.3</avgScore>
+</discipline>
+<discipline name="history">
+<costPerYear>400</costPerYear>
+<lections>80</lections>
+<avgScore>10.2</avgScore>
+</discipline>
+<discipline name="philosophy">
+<costPerYear>50</costPerYear>
+<lections>10</lections>
+<avgScore>9.7</avgScore>
+</discipline>
+<discipline name="english">
+<costPerYear>300</costPerYear>
+<lections>30</lections>
+<avgScore>10.5</avgScore>
+</discipline>
+</disciplines>
+
+<sportInterests>
+<interest>tennis</interest>
+<interest>football</interest>
+<interest>bike</interest>
+<interest>chess</interest>
+</sportInterests>
+
+<friends>
+<friend>Alex</friend>
+<friend>Mike</friend>
+<friend>Yriy</friend>
+</friends>
+
+</student>

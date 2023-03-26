@@ -1,0 +1,50 @@
+{
+	"name": "Peter",
+	"surname": "Polishchuk",
+	"age": 35,
+	"height": 178,
+	"weight": 84.5,
+	"birthday": "1987-07-13T01:15:00.000Z",
+	"married": true,
+	"adress": {
+		"town": "Vinnytsia",
+		"street": "Nahirna",
+		"number": 19
+	},
+	"family": {
+		"wife": {
+			"name": "Valentina",
+			"age": 39,
+			"hasHigherEducation": true
+		},
+		"son": {
+			"name": "Nazar",
+			"age": 11,
+			"hasHigherEducation": false
+		}
+	},
+	"disciplines": {
+		"math": {
+			"costPerYear": 100,
+			"lections": 40,
+			"avgScore": 11.2
+		},
+		"history": {
+			"costPerYear": 400,
+			"lections": 80,
+			"avgScore": 10.1
+		},
+		"philosophy": {
+			"costPerYear": 50,
+			"lections": 10,
+			"avgScore": 9.7
+		},
+		"english": {
+			"costPerYear": 300,
+			"lections": 30,
+			"avgScore": 10.5
+		}
+	},
+	"sportInterests": ["tennis", "football", "bike", "chess"],
+	"friends": ["Alex", "Mike", "Yriy"]
+}
